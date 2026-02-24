@@ -8,15 +8,14 @@ It provides interactive visualizations, performance metrics,end-to-end data anal
 
 
 - **Fraud_detection.ipynb** 
-- **Class_Distribution_Pie_chart.png** → <img width="1800" height="1800" alt="Class_Distribution_Pie_chart" src="https://github.com/user-attachments/assets/24b5750e-effd-41c9-a04c-d31c5001af9f" />
+- **Class_Distribution_Pie_chart.png** → <img width="1800" height="1800" alt="Class_Distribution_Pie_chart" src="https://github.com/user-attachments/assets/6009f0db-7fc7-4d21-b654-fd4ee6160a53" />
 
-- **Correlation_Heatmap.png** → <img width="3600" height="3000" alt="Correlation_Heatmap" src="https://github.com/user-attachments/assets/64b83cde-0383-4149-8457-65a66d7ffe62" />
+- **Correlation_Heatmap.png** → <img width="3600" height="3000" alt="Correlation_Heatmap" src="https://github.com/user-attachments/assets/12d9e6f2-c43c-4f85-8c68-b15b13a28e3e" />
 
-- **Class_Distribution.png** → <img width="1920" height="1440" alt="Class_Distribution" src="https://github.com/user-attachments/assets/bf0e6e24-f8f8-480d-84aa-bb044ea1b218" />
+- **Class_Distribution.png** → <img width="1920" height="1440" alt="Class_Distribution" src="https://github.com/user-attachments/assets/662a76db-ba08-4ddd-b14b-a1272c17b22d" />
+
 
 - **README.md** → Project documentation.
-
----
 
 ## 🚀 Features
 
@@ -24,8 +23,6 @@ It provides interactive visualizations, performance metrics,end-to-end data anal
 - Train Random Forest & XGBoost with SMOTE
 - Interactive threshold slider for precision/recall tradeoffs
 - Precision‑Recall and ROC curves
-
-
 ---
 
 ## ⚙️ Installation
